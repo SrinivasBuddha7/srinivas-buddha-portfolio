@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/srinivas-buddha-portfolio/static/css/main.d044f800.css",
+    "main.js": "/srinivas-buddha-portfolio/static/js/main.d25096d8.js",
+    "static/media/eranadan_thakkaram_2.jpg": "/srinivas-buddha-portfolio/static/media/eranadan_thakkaram_2.3bb2450321f5b8aa6228.jpg",
+    "static/media/BookLending.png": "/srinivas-buddha-portfolio/static/media/BookLending.04f6a49f3c47242ea929.png",
+    "static/media/Home.png": "/srinivas-buddha-portfolio/static/media/Home.7d82faf108398410b091.png",
+    "static/media/hero_image.png": "/srinivas-buddha-portfolio/static/media/hero_image.4780f2010dd891f51c85.png",
+    "static/media/expense-tracker.png": "/srinivas-buddha-portfolio/static/media/expense-tracker.b09ff05f49a1f29234fc.png",
+    "static/media/logo.svg": "/srinivas-buddha-portfolio/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/srinivas-buddha-portfolio/index.html",
+    "main.d044f800.css.map": "/srinivas-buddha-portfolio/static/css/main.d044f800.css.map",
+    "main.d25096d8.js.map": "/srinivas-buddha-portfolio/static/js/main.d25096d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d044f800.css",
+    "static/js/main.d25096d8.js"
+  ]
+}
